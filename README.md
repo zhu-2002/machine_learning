@@ -1,1 +1,2 @@
 # machine_learning
+这个仓库用于记录我的机器学习过程
